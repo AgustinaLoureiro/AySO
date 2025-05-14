@@ -21,3 +21,22 @@
    21  cd AySO
    22  ls
    23  history > historial.txt
+   24  ls
+   25  git status
+   26  git add .
+   27  git status
+   28  git commit -m "clase 3"
+   29  git config --global user.email "agusloureiro@hotmail.com"
+   30  git config --global user.name "AgustinaLoureiro"
+   31  git commit -m "commit clase3"
+   32  git push
+   33  ls
+   34  cat << FIN > texto.txt
+   35  linea 1
+   36  linea 2
+   37  linea 3
+   38  FIN
+   39  cat texto.txt
+   40  bc <<< 1+2
+   41  history > historial.txt
+linea final
